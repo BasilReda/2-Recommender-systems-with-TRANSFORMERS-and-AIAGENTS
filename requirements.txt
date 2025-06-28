@@ -1,0 +1,8 @@
+fastapi
+pydantic
+sentence-transformers
+torch
+pandas
+scikit-learn
+PyPDF2
+spacy
