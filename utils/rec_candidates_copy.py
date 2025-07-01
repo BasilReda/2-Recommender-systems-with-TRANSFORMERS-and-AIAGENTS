@@ -1,6 +1,7 @@
 from sentence_transformers import SentenceTransformer , util
 import torch
 from src.company_data import clean_resume_text
+from utils.AI_agent import extract_and_check
 
 def recommend_candidates_from_job_description1(cvs,
                                              job_description,
@@ -16,7 +17,8 @@ def recommend_candidates_from_job_description1(cvs,
         filenames.append(cv.user_id)
         cv_text = cv.text
         cleaned_text = clean_resume_text(cv_text)  # Clean the CV text
-        cv_embeddings.append(model.encode(cleaned_text, convert_to_tensor=True))
+        accurate_text = extract_and_check(cleaned_text)
+        cv_embeddings.append(model.encode(accurate_text, convert_to_tensor=True))
 
     if not cv_embeddings:
         return []
