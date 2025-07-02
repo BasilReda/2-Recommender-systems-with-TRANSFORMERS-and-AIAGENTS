@@ -1,0 +1,1981 @@
+[
+  {
+    "_id": "1",
+    "title": "Mid-level Cloud Architect",
+    "text": "Mid-level Cloud Architect position (Remote). We're looking for someone with strong Rust skills and experience with C#, Ruby, TypeScript. The ideal candidate will have worked with Flask, Angular and PostgreSQL, MongoDB for data storage. Experience with CircleCI is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "CircleCI",
+      "PostgreSQL",
+      "Angular",
+      "Ruby",
+      "MongoDB",
+      "C#",
+      "TypeScript",
+      "Flask",
+      "Rust"
+    ],
+    "location": "Remote",
+    "seniority": "Mid-level",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "2",
+    "title": "Mid-level Full Stack Developer",
+    "text": "Mid-level Full Stack Developer position at a Healthcare company in San Francisco. We're looking for someone with strong C# skills and experience with Ruby. The ideal candidate will have worked with React and Cassandra, PostgreSQL, Oracle for data storage. Experience with ArgoCD is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "Ruby",
+      "PostgreSQL",
+      "ArgoCD",
+      "Oracle",
+      "Cassandra",
+      "C#",
+      "React"
+    ],
+    "location": "San Francisco",
+    "seniority": "Mid-level",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "3",
+    "title": "Principal Frontend Developer",
+    "text": "Principal Frontend Developer position in Berlin. We're looking for someone with strong Java skills and experience with C++. The ideal candidate will have worked with Laravel, Django and MongoDB, Redis for data storage. Experience with GitHub Actions, AWS, Kubernetes is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "Java",
+    "all_skills": [
+      "Kubernetes",
+      "Django",
+      "Redis",
+      "MongoDB",
+      "Laravel",
+      "AWS",
+      "Java",
+      "GitHub Actions",
+      "C++"
+    ],
+    "location": "Berlin",
+    "seniority": "Principal",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "4",
+    "title": "Lead Cloud Architect",
+    "text": "Lead Cloud Architect position at a E-commerce company in San Francisco. We're looking for someone with strong Rust skills. The ideal candidate will have worked with Angular and Oracle, Cassandra for data storage. Experience with Kubernetes is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "Cassandra",
+      "Kubernetes",
+      "Oracle",
+      "Angular",
+      "Rust"
+    ],
+    "location": "San Francisco",
+    "seniority": "Lead",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "5",
+    "title": "Senior Security Engineer",
+    "text": "Senior Security Engineer position at a Social Media company (Remote). We're looking for someone with strong C# skills and experience with PHP, Ruby. The ideal candidate will have worked with TensorFlow, Django and MySQL, SQL Server, Redis for data storage. Experience with Azure, Docker, AWS, GitHub Actions is highly desired. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "TensorFlow",
+      "Django",
+      "Ruby",
+      "GitHub Actions",
+      "MySQL",
+      "C#",
+      "Docker",
+      "PHP",
+      "Spring Boot",
+      "AWS",
+      "SQL Server",
+      "Azure",
+      ".NET",
+      "Redis"
+    ],
+    "location": "Remote",
+    "seniority": "Senior",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "6",
+    "title": "Principal Cloud Architect",
+    "text": "Principal Cloud Architect position in Toronto. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with Express, PyTorch and Oracle, Redis for data storage. Experience with Jenkins, Azure is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "Redis",
+      "Express",
+      "PyTorch",
+      "Jenkins",
+      "Azure",
+      "TypeScript",
+      "Oracle",
+      "Spring Boot"
+    ],
+    "location": "Toronto",
+    "seniority": "Principal",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "7",
+    "title": "Junior Cloud Architect",
+    "text": "Junior Cloud Architect position in London. We're looking for someone with strong Python skills. The ideal candidate will have worked with .NET, React and Oracle for data storage. Experience with Azure, Kubernetes, Terraform, AWS is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Oracle",
+      "Python",
+      ".NET",
+      "Spring Boot",
+      "Terraform",
+      "Kubernetes",
+      "AWS",
+      "React",
+      "Azure"
+    ],
+    "location": "London",
+    "seniority": "Junior",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "8",
+    "title": "Junior ML Engineer",
+    "text": "Junior ML Engineer position in Berlin. We're looking for someone with strong TypeScript skills and experience with Swift, JavaScript, Rust. The ideal candidate will have worked with Django, Express and Cassandra, Firebase for data storage. Experience with AWS, Google Cloud, ArgoCD, Kubernetes is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "ArgoCD",
+      "TypeScript",
+      "Swift",
+      "Cassandra",
+      "Google Cloud",
+      "Kubernetes",
+      "Rust",
+      "JavaScript",
+      "Django",
+      "AWS",
+      "PyTorch",
+      "Express",
+      "Firebase"
+    ],
+    "location": "Berlin",
+    "seniority": "Junior",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "9",
+    "title": "Lead Mobile Developer",
+    "text": "Lead Mobile Developer position in Chicago. We're looking for someone with strong Kotlin skills and experience with TypeScript, C++. The ideal candidate will have worked with TensorFlow, Spring Boot and MongoDB, MySQL for data storage. Experience with CircleCI is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "Kotlin",
+      "MySQL",
+      "CircleCI",
+      "MongoDB",
+      "Spring Boot",
+      "C++",
+      "TensorFlow",
+      "TypeScript",
+      "Flask"
+    ],
+    "location": "Chicago",
+    "seniority": "Lead",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "10",
+    "title": "Entry-level DevOps Engineer",
+    "text": "Entry-level DevOps Engineer position in Hybrid. We're looking for someone with strong C++ skills. The ideal candidate will have worked with .NET, Spring Boot and MongoDB, Redis for data storage. Experience with Jenkins, ArgoCD, CircleCI is highly desired. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "ArgoCD",
+      "Redis",
+      "Jenkins",
+      "C++",
+      ".NET",
+      "MongoDB",
+      "Spring Boot",
+      "CircleCI"
+    ],
+    "location": "Hybrid",
+    "seniority": "Entry-level",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "11",
+    "title": "Principal Software Engineer",
+    "text": "Principal Software Engineer position at a Gaming company in London. We're looking for someone with strong Python skills. The ideal candidate will have worked with Flask, Vue.js and Cassandra, Elasticsearch, Firebase for data storage. Experience with Google Cloud, ArgoCD, Terraform is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Elasticsearch",
+      "ArgoCD",
+      "Firebase",
+      "Terraform",
+      "Cassandra",
+      "Python",
+      "Vue.js",
+      "Flask",
+      "React",
+      "Google Cloud"
+    ],
+    "location": "London",
+    "seniority": "Principal",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "12",
+    "title": "Entry-level Frontend Developer",
+    "text": "Entry-level Frontend Developer position at a Cybersecurity company in London. We're looking for someone with strong Python skills and experience with JavaScript, Kotlin, PHP. The ideal candidate will have worked with Flask, FastAPI and DynamoDB, Cassandra, MongoDB for data storage. Experience with CircleCI, Azure, Jenkins, Docker is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Vue.js",
+      "Kotlin",
+      "Spring Boot",
+      "Cassandra",
+      "MongoDB",
+      "Jenkins",
+      "CircleCI",
+      "FastAPI",
+      "Docker",
+      "PHP",
+      "Python",
+      "JavaScript",
+      "DynamoDB",
+      "Flask",
+      "Azure"
+    ],
+    "location": "London",
+    "seniority": "Entry-level",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "13",
+    "title": "Lead Cloud Architect",
+    "text": "Lead Cloud Architect position at a Fintech company in London. We're looking for someone with strong Go skills and experience with Python, C#. The ideal candidate will have worked with Express and Oracle, Firebase, MongoDB for data storage. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "Oracle",
+      "Go",
+      "MongoDB",
+      "Firebase",
+      "Express",
+      "C#",
+      "Python"
+    ],
+    "location": "London",
+    "seniority": "Lead",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "14",
+    "title": "Junior Full Stack Developer",
+    "text": "Junior Full Stack Developer position in New York. We're looking for someone with strong Ruby skills and experience with TypeScript, Rust, JavaScript. The ideal candidate will have worked with Express, FastAPI and Firebase for data storage. Experience with Google Cloud, CircleCI is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "Ruby",
+    "all_skills": [
+      ".NET",
+      "Ruby",
+      "FastAPI",
+      "Google Cloud",
+      "JavaScript",
+      "Express",
+      "TypeScript",
+      "Firebase",
+      "CircleCI",
+      "Rust"
+    ],
+    "location": "New York",
+    "seniority": "Junior",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "15",
+    "title": "Entry-level Frontend Developer",
+    "text": "Entry-level Frontend Developer position in Berlin. We're looking for someone with strong TypeScript skills and experience with Rust. The ideal candidate will have worked with Spring Boot and MySQL, Cassandra, Redis for data storage. Experience with GitHub Actions, Docker, Jenkins is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "GitHub Actions",
+      "Cassandra",
+      "Redis",
+      "Rust",
+      "TypeScript",
+      "Docker",
+      "Spring Boot",
+      "MySQL",
+      "Jenkins"
+    ],
+    "location": "Berlin",
+    "seniority": "Entry-level",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "16",
+    "title": "Lead Backend Developer",
+    "text": "Lead Backend Developer position at a E-commerce company in Chicago. We're looking for someone with strong JavaScript skills and experience with Go, Swift. The ideal candidate will have worked with Django and Elasticsearch, MySQL, Redis for data storage. Experience with AWS is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "Elasticsearch",
+      "Redis",
+      "Django",
+      "JavaScript",
+      "AWS",
+      "Swift",
+      "MySQL",
+      "Go"
+    ],
+    "location": "Chicago",
+    "seniority": "Lead",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "17",
+    "title": "Junior Data Scientist",
+    "text": "Junior Data Scientist position in New York. We're looking for someone with strong JavaScript skills. The ideal candidate will have worked with Express and Cassandra, SQL Server, MySQL for data storage. Experience with Kubernetes, GitHub Actions is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "JavaScript",
+      "SQL Server",
+      "Kubernetes",
+      "MySQL",
+      "GitHub Actions",
+      "Cassandra",
+      "Express"
+    ],
+    "location": "New York",
+    "seniority": "Junior",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "18",
+    "title": "Junior DevOps Engineer",
+    "text": "Junior DevOps Engineer position at a Gaming company (Remote). We're looking for someone with strong Java skills and experience with Python, JavaScript, C++. The ideal candidate will have worked with Vue.js, Express and Cassandra for data storage. Experience with GitHub Actions is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Java",
+    "all_skills": [
+      "Java",
+      "GitHub Actions",
+      "Python",
+      "Express",
+      "C++",
+      "Vue.js",
+      "JavaScript",
+      "Cassandra"
+    ],
+    "location": "Remote",
+    "seniority": "Junior",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "19",
+    "title": "Mid-level DevOps Engineer",
+    "text": "Mid-level DevOps Engineer position in Seattle. We're looking for someone with strong Ruby skills and experience with Swift. The ideal candidate will have worked with PyTorch, Django and Redis, Oracle, MongoDB for data storage. Experience with Azure, AWS, Docker, Jenkins is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "Ruby",
+    "all_skills": [
+      "Docker",
+      "PyTorch",
+      "Oracle",
+      "Swift",
+      "Jenkins",
+      "AWS",
+      "Ruby",
+      "Django",
+      "Redis",
+      "MongoDB",
+      "Azure"
+    ],
+    "location": "Seattle",
+    "seniority": "Mid-level",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "20",
+    "title": "Junior QA Engineer",
+    "text": "Junior QA Engineer position in San Francisco. We're looking for someone with strong Go skills and experience with Ruby, Swift. The ideal candidate will have worked with Vue.js, Angular and DynamoDB, Redis, Cassandra for data storage. Experience with Google Cloud, Jenkins, Docker is highly desired. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "Go",
+      "Cassandra",
+      "Angular",
+      "Jenkins",
+      "Swift",
+      "React",
+      "Redis",
+      "Ruby",
+      "Vue.js",
+      "Docker",
+      "Google Cloud",
+      "DynamoDB"
+    ],
+    "location": "San Francisco",
+    "seniority": "Junior",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "21",
+    "title": "Junior QA Engineer",
+    "text": "Junior QA Engineer position in Chicago. We're looking for someone with strong Go skills and experience with C++, TypeScript, JavaScript. The ideal candidate will have worked with .NET, React and Redis for data storage. Experience with Google Cloud, CircleCI is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "Go",
+      "TypeScript",
+      ".NET",
+      "CircleCI",
+      "C++",
+      "Google Cloud",
+      "React",
+      "JavaScript",
+      "Redis"
+    ],
+    "location": "Chicago",
+    "seniority": "Junior",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "22",
+    "title": "Mid-level Frontend Developer",
+    "text": "Mid-level Frontend Developer position at a Gaming company in Berlin. We're looking for someone with strong C# skills and experience with Kotlin, C++, PHP. The ideal candidate will have worked with Laravel, Flask and DynamoDB for data storage. Experience with AWS is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "Flask",
+      "Laravel",
+      "C#",
+      "DynamoDB",
+      "AWS",
+      "Kotlin",
+      "PHP",
+      "C++"
+    ],
+    "location": "Berlin",
+    "seniority": "Mid-level",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "23",
+    "title": "Lead ML Engineer",
+    "text": "Lead ML Engineer position in Sydney. We're looking for someone with strong C# skills and experience with Python. The ideal candidate will have worked with FastAPI, TensorFlow and Oracle for data storage. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Oracle",
+      "TensorFlow",
+      "C#"
+    ],
+    "location": "Sydney",
+    "seniority": "Lead",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "24",
+    "title": "Junior Backend Developer",
+    "text": "Junior Backend Developer position at a SaaS company (Remote). We're looking for someone with strong Java skills and experience with Kotlin, PHP. The ideal candidate will have worked with Express, TensorFlow and SQL Server for data storage. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "Java",
+    "all_skills": [
+      "Flask",
+      "PHP",
+      "SQL Server",
+      "Express",
+      "Kotlin",
+      ".NET",
+      "TensorFlow",
+      "Java"
+    ],
+    "location": "Remote",
+    "seniority": "Junior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "25",
+    "title": "Junior Frontend Developer",
+    "text": "Junior Frontend Developer position in Hybrid. We're looking for someone with strong C++ skills and experience with Rust, Python, C#. The ideal candidate will have worked with PyTorch, FastAPI and Redis, DynamoDB, Cassandra for data storage. Experience with Docker is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "FastAPI",
+      "C++",
+      "PyTorch",
+      "Docker",
+      "Cassandra",
+      "Python",
+      "C#",
+      "Rust",
+      "DynamoDB",
+      "Redis"
+    ],
+    "location": "Hybrid",
+    "seniority": "Junior",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "26",
+    "title": "Principal Frontend Developer",
+    "text": "Principal Frontend Developer position at a Healthcare company (Remote). We're looking for someone with strong PHP skills and experience with Kotlin, Rust, Python. The ideal candidate will have worked with Angular, Laravel and Elasticsearch, MongoDB, Cassandra for data storage. Experience with GitHub Actions, CircleCI, Google Cloud, Kubernetes is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "GitHub Actions",
+      "Cassandra",
+      "CircleCI",
+      "Python",
+      "Kotlin",
+      "Elasticsearch",
+      "PHP",
+      "Angular",
+      "Laravel",
+      ".NET",
+      "Rust",
+      "MongoDB",
+      "Kubernetes",
+      "Google Cloud"
+    ],
+    "location": "Remote",
+    "seniority": "Principal",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "27",
+    "title": "Mid-level Full Stack Developer",
+    "text": "Mid-level Full Stack Developer position at a Fintech company in Toronto. We're looking for someone with strong PHP skills and experience with JavaScript. The ideal candidate will have worked with Angular and MySQL, Oracle, DynamoDB for data storage. Experience with Docker, ArgoCD, Kubernetes, Jenkins is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "MySQL",
+      "Jenkins",
+      "JavaScript",
+      "Docker",
+      "Kubernetes",
+      "DynamoDB",
+      "Oracle",
+      "Angular",
+      "ArgoCD",
+      "PHP"
+    ],
+    "location": "Toronto",
+    "seniority": "Mid-level",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "28",
+    "title": "Entry-level Security Engineer",
+    "text": "Entry-level Security Engineer position in Chicago. We're looking for someone with strong C++ skills and experience with Go. The ideal candidate will have worked with .NET, Flask and PostgreSQL, DynamoDB for data storage. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "Go",
+      ".NET",
+      "PostgreSQL",
+      "C++",
+      "Flask",
+      "DynamoDB"
+    ],
+    "location": "Chicago",
+    "seniority": "Entry-level",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "29",
+    "title": "Entry-level DevOps Engineer",
+    "text": "Entry-level DevOps Engineer position in Chicago. We're looking for someone with strong C# skills and experience with Rust. The ideal candidate will have worked with PyTorch and PostgreSQL, Firebase, Elasticsearch for data storage. Experience with Jenkins, CircleCI, Terraform, Azure is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "C#",
+      "PostgreSQL",
+      "Azure",
+      "CircleCI",
+      "Firebase",
+      "PyTorch",
+      "Elasticsearch",
+      "Jenkins",
+      "Rust",
+      "Terraform"
+    ],
+    "location": "Chicago",
+    "seniority": "Entry-level",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "30",
+    "title": "Lead Data Scientist",
+    "text": "Lead Data Scientist position in Austin. We're looking for someone with strong Go skills and experience with C#, Swift. The ideal candidate will have worked with TensorFlow, Spring Boot and Redis for data storage. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "Redis",
+      "Spring Boot",
+      "Swift",
+      "Vue.js",
+      "C#",
+      "Express",
+      "TensorFlow",
+      "Go"
+    ],
+    "location": "Austin",
+    "seniority": "Lead",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "31",
+    "title": "Entry-level Backend Developer",
+    "text": "Entry-level Backend Developer position at a Healthcare company in San Francisco. We're looking for someone with strong C++ skills and experience with Kotlin, Python, C#. The ideal candidate will have worked with .NET, PyTorch and DynamoDB, PostgreSQL, Elasticsearch for data storage. Experience with Docker, CircleCI is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "Python",
+      "C++",
+      "Kotlin",
+      "DynamoDB",
+      "PyTorch",
+      ".NET",
+      "Docker",
+      "CircleCI",
+      "Elasticsearch",
+      "C#",
+      "PostgreSQL"
+    ],
+    "location": "San Francisco",
+    "seniority": "Entry-level",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "32",
+    "title": "Entry-level Frontend Developer",
+    "text": "Entry-level Frontend Developer position at a Enterprise company in Toronto. We're looking for someone with strong Ruby skills and experience with Python, Swift. The ideal candidate will have worked with PyTorch, TensorFlow and Cassandra for data storage. Experience with Jenkins, AWS, Google Cloud, CircleCI is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "Ruby",
+    "all_skills": [
+      "Python",
+      "PyTorch",
+      "AWS",
+      "Cassandra",
+      "Ruby",
+      "Swift",
+      "Jenkins",
+      "TensorFlow",
+      "CircleCI",
+      "Google Cloud"
+    ],
+    "location": "Toronto",
+    "seniority": "Entry-level",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "33",
+    "title": "Mid-level Data Scientist",
+    "text": "Mid-level Data Scientist position at a SaaS company in San Francisco. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with Flask and PostgreSQL, MongoDB for data storage. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "TypeScript",
+      "MongoDB",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "location": "San Francisco",
+    "seniority": "Mid-level",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "34",
+    "title": "Senior QA Engineer",
+    "text": "Senior QA Engineer position in Berlin. We're looking for someone with strong C++ skills and experience with Go. The ideal candidate will have worked with React and Cassandra, Elasticsearch, Firebase for data storage. Experience with AWS, Jenkins, Terraform is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "Go",
+      "Terraform",
+      "Jenkins",
+      "AWS",
+      "Firebase",
+      "Elasticsearch",
+      "Cassandra",
+      "C++",
+      "React"
+    ],
+    "location": "Berlin",
+    "seniority": "Senior",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "35",
+    "title": "Entry-level Mobile Developer",
+    "text": "Entry-level Mobile Developer position at a E-commerce company in London. We're looking for someone with strong Swift skills and experience with Ruby. The ideal candidate will have worked with PyTorch, FastAPI and Oracle, Elasticsearch, PostgreSQL for data storage. Experience with ArgoCD, Docker is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "Swift",
+    "all_skills": [
+      "PostgreSQL",
+      "Docker",
+      "Ruby",
+      "ArgoCD",
+      "Laravel",
+      "Swift",
+      "FastAPI",
+      "Elasticsearch",
+      "PyTorch",
+      "Oracle"
+    ],
+    "location": "London",
+    "seniority": "Entry-level",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "36",
+    "title": "Lead Mobile Developer",
+    "text": "Lead Mobile Developer position in San Francisco. We're looking for someone with strong C# skills and experience with TypeScript, Rust, C++. The ideal candidate will have worked with Flask, Django and MySQL, MongoDB, Cassandra for data storage. Experience with CircleCI, Terraform is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "C++",
+      "Rust",
+      "Vue.js",
+      "Cassandra",
+      "Flask",
+      "CircleCI",
+      "C#",
+      "Terraform",
+      "TypeScript",
+      "Django",
+      "MySQL",
+      "MongoDB"
+    ],
+    "location": "San Francisco",
+    "seniority": "Lead",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "37",
+    "title": "Senior Mobile Developer",
+    "text": "Senior Mobile Developer position at a EdTech company in Toronto. We're looking for someone with strong C++ skills. The ideal candidate will have worked with .NET, React and MongoDB, Cassandra, Elasticsearch for data storage. Experience with AWS, Jenkins, Terraform is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "Flask",
+      "Elasticsearch",
+      "Jenkins",
+      "Terraform",
+      "C++",
+      "MongoDB",
+      "React",
+      "Laravel",
+      ".NET",
+      "Cassandra",
+      "AWS"
+    ],
+    "location": "Toronto",
+    "seniority": "Senior",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "38",
+    "title": "Junior DevOps Engineer",
+    "text": "Junior DevOps Engineer position in Toronto. We're looking for someone with strong Ruby skills and experience with C++, Go, Kotlin. The ideal candidate will have worked with TensorFlow, Django and MySQL, Redis for data storage. Experience with Kubernetes, Docker is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "Ruby",
+    "all_skills": [
+      "MySQL",
+      "TensorFlow",
+      "Redis",
+      "C++",
+      "Ruby",
+      "Django",
+      "Kotlin",
+      "Go",
+      "Kubernetes",
+      "Docker"
+    ],
+    "location": "Toronto",
+    "seniority": "Junior",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "39",
+    "title": "Junior Data Engineer",
+    "text": "Junior Data Engineer position in Austin. We're looking for someone with strong C# skills and experience with PHP, Kotlin, C++. The ideal candidate will have worked with .NET, Vue.js and MySQL for data storage. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "Kotlin",
+      "MySQL",
+      "C++",
+      "C#",
+      "PHP",
+      ".NET",
+      "Vue.js"
+    ],
+    "location": "Austin",
+    "seniority": "Junior",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "40",
+    "title": "Junior Security Engineer",
+    "text": "Junior Security Engineer position in New York. We're looking for someone with strong C# skills and experience with Ruby, JavaScript. The ideal candidate will have worked with Flask, .NET and SQL Server for data storage. Experience with CircleCI, AWS, Azure is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "AWS",
+      "SQL Server",
+      "JavaScript",
+      ".NET",
+      "Ruby",
+      "Flask",
+      "C#",
+      "Azure",
+      "CircleCI",
+      "TensorFlow"
+    ],
+    "location": "New York",
+    "seniority": "Junior",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "41",
+    "title": "Lead Data Engineer",
+    "text": "Lead Data Engineer position at a Cybersecurity company in Seattle. We're looking for someone with strong C# skills and experience with Go, Swift. The ideal candidate will have worked with Django, Express and Cassandra for data storage. Experience with Azure is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "Cassandra",
+      "C#",
+      "Azure",
+      "Django",
+      "Express",
+      "Go",
+      "Swift"
+    ],
+    "location": "Seattle",
+    "seniority": "Lead",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "42",
+    "title": "Mid-level Cloud Architect",
+    "text": "Mid-level Cloud Architect position at a Gaming company in San Francisco. We're looking for someone with strong Ruby skills and experience with Java. The ideal candidate will have worked with Spring Boot, Express and MySQL for data storage. Experience with AWS is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Ruby",
+    "all_skills": [
+      "Laravel",
+      "React",
+      "Express",
+      "MySQL",
+      "AWS",
+      "Spring Boot",
+      "Ruby",
+      "Java"
+    ],
+    "location": "San Francisco",
+    "seniority": "Mid-level",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "43",
+    "title": "Senior Data Engineer",
+    "text": "Senior Data Engineer position at a Cybersecurity company in Berlin. We're looking for someone with strong PHP skills. The ideal candidate will have worked with Vue.js, Laravel and Cassandra, Redis, PostgreSQL for data storage. Experience with CircleCI, Azure, Docker is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "Azure",
+      "Laravel",
+      "PostgreSQL",
+      "CircleCI",
+      "PHP",
+      "Docker",
+      "Vue.js",
+      "Cassandra",
+      "Redis"
+    ],
+    "location": "Berlin",
+    "seniority": "Senior",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "44",
+    "title": "Senior Data Scientist",
+    "text": "Senior Data Scientist position at a Fintech company in New York. We're looking for someone with strong PHP skills. The ideal candidate will have worked with Angular, TensorFlow and PostgreSQL, Firebase, DynamoDB for data storage. Experience with Kubernetes, ArgoCD is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "Angular",
+      "ArgoCD",
+      "Firebase",
+      "Kubernetes",
+      "PHP",
+      "Laravel",
+      "TensorFlow",
+      "DynamoDB",
+      "PostgreSQL"
+    ],
+    "location": "New York",
+    "seniority": "Senior",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "45",
+    "title": "Principal Data Engineer",
+    "text": "Principal Data Engineer position (Remote). We're looking for someone with strong Rust skills and experience with C++, TypeScript. The ideal candidate will have worked with TensorFlow, React and Firebase, MongoDB for data storage. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "MongoDB",
+      "React",
+      "TypeScript",
+      "Rust",
+      "FastAPI",
+      "Laravel",
+      "TensorFlow",
+      "C++",
+      "Firebase"
+    ],
+    "location": "Remote",
+    "seniority": "Principal",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "46",
+    "title": "Junior DevOps Engineer",
+    "text": "Junior DevOps Engineer position in Sydney. We're looking for someone with strong JavaScript skills and experience with Python, Java, C++. The ideal candidate will have worked with Flask, PyTorch and Oracle, DynamoDB, MongoDB for data storage. Experience with Docker, AWS, Google Cloud is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "AWS",
+      "Docker",
+      "PyTorch",
+      "Oracle",
+      "DynamoDB",
+      "Spring Boot",
+      "Flask",
+      "Vue.js",
+      "Python",
+      "Java",
+      "MongoDB",
+      "Google Cloud",
+      "JavaScript",
+      "C++"
+    ],
+    "location": "Sydney",
+    "seniority": "Junior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "47",
+    "title": "Entry-level Backend Developer",
+    "text": "Entry-level Backend Developer position at a EdTech company in Berlin. We're looking for someone with strong C# skills. The ideal candidate will have worked with Django, Angular and DynamoDB, Oracle, SQL Server for data storage. Experience with Terraform, Docker is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "Oracle",
+      "Docker",
+      "Terraform",
+      "Django",
+      "C#",
+      "Flask",
+      "DynamoDB",
+      "SQL Server",
+      "Angular"
+    ],
+    "location": "Berlin",
+    "seniority": "Entry-level",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "48",
+    "title": "Lead Cloud Architect",
+    "text": "Lead Cloud Architect position at a Enterprise company (Remote). We're looking for someone with strong Rust skills and experience with C++. The ideal candidate will have worked with React and DynamoDB, MongoDB, Elasticsearch for data storage. Experience with Terraform, ArgoCD, AWS is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "Rust",
+      "React",
+      "Terraform",
+      "ArgoCD",
+      "AWS",
+      "Elasticsearch",
+      "DynamoDB",
+      "C++",
+      "MongoDB"
+    ],
+    "location": "Remote",
+    "seniority": "Lead",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "49",
+    "title": "Lead Data Scientist",
+    "text": "Lead Data Scientist position in London. We're looking for someone with strong Rust skills and experience with PHP. The ideal candidate will have worked with Angular, Vue.js and Elasticsearch, DynamoDB, Cassandra for data storage. Experience with AWS, Google Cloud, Terraform, Docker is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "Angular",
+      "Cassandra",
+      "Elasticsearch",
+      "Google Cloud",
+      "AWS",
+      "Rust",
+      "Docker",
+      "Vue.js",
+      "PHP",
+      "DynamoDB",
+      "Terraform"
+    ],
+    "location": "London",
+    "seniority": "Lead",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "50",
+    "title": "Junior DevOps Engineer",
+    "text": "Junior DevOps Engineer position at a Social Media company in Austin. We're looking for someone with strong C++ skills and experience with Java, TypeScript. The ideal candidate will have worked with TensorFlow and Cassandra, MySQL, Oracle for data storage. Experience with Google Cloud, Jenkins is highly desired. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "C++",
+      "MySQL",
+      "TypeScript",
+      "Cassandra",
+      "Oracle",
+      "Google Cloud",
+      "Java",
+      "Jenkins",
+      "TensorFlow"
+    ],
+    "location": "Austin",
+    "seniority": "Junior",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "51",
+    "title": "Junior Frontend Developer",
+    "text": "Junior Frontend Developer position in Toronto. We're looking for someone with strong C# skills and experience with TypeScript, Kotlin, PHP. The ideal candidate will have worked with FastAPI, TensorFlow and PostgreSQL, MongoDB, MySQL for data storage. Experience with CircleCI, GitHub Actions, Terraform is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "FastAPI",
+      "Terraform",
+      "MySQL",
+      "PostgreSQL",
+      "TensorFlow",
+      "CircleCI",
+      "C#",
+      "GitHub Actions",
+      "MongoDB",
+      "TypeScript",
+      "PHP",
+      "Kotlin"
+    ],
+    "location": "Toronto",
+    "seniority": "Junior",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "52",
+    "title": "Junior Data Scientist",
+    "text": "Junior Data Scientist position at a Gaming company in Berlin. We're looking for someone with strong Go skills. The ideal candidate will have worked with Vue.js, Laravel and Redis for data storage. Experience with Docker, Jenkins is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "Docker",
+      "Redis",
+      "Vue.js",
+      "Laravel",
+      "Go",
+      "Jenkins"
+    ],
+    "location": "Berlin",
+    "seniority": "Junior",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "53",
+    "title": "Senior QA Engineer",
+    "text": "Senior QA Engineer position in London. We're looking for someone with strong Kotlin skills and experience with TypeScript, JavaScript. The ideal candidate will have worked with Vue.js, Django and MongoDB, MySQL, SQL Server for data storage. Experience with Google Cloud, CircleCI, Azure, ArgoCD is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "ArgoCD",
+      "Kotlin",
+      "SQL Server",
+      "MySQL",
+      ".NET",
+      "Django",
+      "MongoDB",
+      "Azure",
+      "CircleCI",
+      "Vue.js",
+      "JavaScript",
+      "Google Cloud",
+      "TypeScript"
+    ],
+    "location": "London",
+    "seniority": "Senior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "54",
+    "title": "Mid-level Data Engineer",
+    "text": "Mid-level Data Engineer position at a AI Research company (Remote). We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with Angular, React and MySQL, SQL Server for data storage. Experience with Azure, ArgoCD is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "PyTorch",
+      "Vue.js",
+      "SQL Server",
+      "Azure",
+      "ArgoCD",
+      "TypeScript",
+      "Angular",
+      "MySQL",
+      "React"
+    ],
+    "location": "Remote",
+    "seniority": "Mid-level",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "55",
+    "title": "Senior Data Scientist",
+    "text": "Senior Data Scientist position at a SaaS company in Berlin. We're looking for someone with strong Swift skills and experience with C++, PHP. The ideal candidate will have worked with React and MongoDB, SQL Server, PostgreSQL for data storage. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "Swift",
+    "all_skills": [
+      "PHP",
+      "MongoDB",
+      "C++",
+      "SQL Server",
+      "PostgreSQL",
+      "Swift",
+      "React"
+    ],
+    "location": "Berlin",
+    "seniority": "Senior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "56",
+    "title": "Principal Frontend Developer",
+    "text": "Principal Frontend Developer position in London. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with PyTorch, Express and Cassandra, SQL Server, PostgreSQL for data storage. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "Express",
+      "PostgreSQL",
+      "PyTorch",
+      "TypeScript",
+      "Cassandra",
+      "SQL Server"
+    ],
+    "location": "London",
+    "seniority": "Principal",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "57",
+    "title": "Principal Data Scientist",
+    "text": "Principal Data Scientist position at a AI Research company in Berlin. We're looking for someone with strong Kotlin skills and experience with Go, C#. The ideal candidate will have worked with Angular and Oracle, Redis, MongoDB for data storage. Experience with Jenkins, Kubernetes, ArgoCD, Google Cloud is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "Go",
+      "Kotlin",
+      "Kubernetes",
+      "Jenkins",
+      "C#",
+      "Google Cloud",
+      "Oracle",
+      "Redis",
+      "Angular",
+      "ArgoCD",
+      "MongoDB"
+    ],
+    "location": "Berlin",
+    "seniority": "Principal",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "58",
+    "title": "Principal ML Engineer",
+    "text": "Principal ML Engineer position at a SaaS company (Remote). We're looking for someone with strong Python skills. The ideal candidate will have worked with Spring Boot, React and Firebase, Redis, PostgreSQL for data storage. Experience with GitHub Actions, Docker, AWS is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Firebase",
+      "PostgreSQL",
+      "Redis",
+      "React",
+      "Spring Boot",
+      "Docker",
+      "AWS",
+      "Python",
+      "GitHub Actions"
+    ],
+    "location": "Remote",
+    "seniority": "Principal",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "59",
+    "title": "Senior Backend Developer",
+    "text": "Senior Backend Developer position in Hybrid. We're looking for someone with strong Swift skills and experience with JavaScript, TypeScript. The ideal candidate will have worked with Vue.js and PostgreSQL for data storage. Experience with Google Cloud, AWS is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "Swift",
+    "all_skills": [
+      "AWS",
+      "Google Cloud",
+      "Vue.js",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL",
+      "Swift"
+    ],
+    "location": "Hybrid",
+    "seniority": "Senior",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "60",
+    "title": "Mid-level Cloud Architect",
+    "text": "Mid-level Cloud Architect position at a Cybersecurity company in London. We're looking for someone with strong Python skills and experience with C#, Ruby, Java. The ideal candidate will have worked with PyTorch, React and Cassandra for data storage. Experience with Kubernetes, Docker, GitHub Actions, Terraform is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Kubernetes",
+      "Ruby",
+      "Python",
+      "Cassandra",
+      "Java",
+      "Express",
+      "GitHub Actions",
+      "Terraform",
+      "React",
+      "Docker",
+      "C#",
+      "PyTorch"
+    ],
+    "location": "London",
+    "seniority": "Mid-level",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "61",
+    "title": "Junior Cloud Architect",
+    "text": "Junior Cloud Architect position in Austin. We're looking for someone with strong PHP skills and experience with Ruby, Python, Kotlin. The ideal candidate will have worked with Django and Oracle, Cassandra, Elasticsearch for data storage. Experience with Terraform, Azure is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "PHP",
+      "Elasticsearch",
+      "Azure",
+      "Terraform",
+      "Cassandra",
+      "Oracle",
+      "Python",
+      "Django",
+      "Ruby",
+      "Kotlin"
+    ],
+    "location": "Austin",
+    "seniority": "Junior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "62",
+    "title": "Lead DevOps Engineer",
+    "text": "Lead DevOps Engineer position in New York. We're looking for someone with strong Python skills. The ideal candidate will have worked with PyTorch, Spring Boot and PostgreSQL for data storage. Experience with GitHub Actions, ArgoCD, Azure, Kubernetes is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "ArgoCD",
+      "Kubernetes",
+      "FastAPI",
+      "Spring Boot",
+      "PyTorch",
+      "Python",
+      "Flask",
+      "Azure",
+      "PostgreSQL",
+      "GitHub Actions"
+    ],
+    "location": "New York",
+    "seniority": "Lead",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "63",
+    "title": "Principal Frontend Developer",
+    "text": "Principal Frontend Developer position at a Enterprise company in Toronto. We're looking for someone with strong C# skills and experience with Kotlin. The ideal candidate will have worked with FastAPI, Angular and Oracle, Redis for data storage. Experience with Kubernetes is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "C#",
+      "Redis",
+      "Oracle",
+      "Kotlin",
+      "Angular",
+      "FastAPI",
+      "Kubernetes"
+    ],
+    "location": "Toronto",
+    "seniority": "Principal",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "64",
+    "title": "Mid-level Full Stack Developer",
+    "text": "Mid-level Full Stack Developer position (Remote). We're looking for someone with strong Python skills and experience with JavaScript. The ideal candidate will have worked with Spring Boot, Laravel and Redis, Cassandra, MySQL for data storage. Experience with Docker is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Docker",
+      "Python",
+      "Redis",
+      "JavaScript",
+      "Spring Boot",
+      "Cassandra",
+      "Django",
+      "MySQL",
+      "Laravel"
+    ],
+    "location": "Remote",
+    "seniority": "Mid-level",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "65",
+    "title": "Mid-level Data Scientist",
+    "text": "Mid-level Data Scientist position (Remote). We're looking for someone with strong PHP skills and experience with JavaScript, Java. The ideal candidate will have worked with PyTorch, Spring Boot and Elasticsearch for data storage. Experience with ArgoCD is highly desired. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "ArgoCD",
+      "JavaScript",
+      "PyTorch",
+      "PHP",
+      "Elasticsearch",
+      "Java",
+      "Spring Boot"
+    ],
+    "location": "Remote",
+    "seniority": "Mid-level",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "66",
+    "title": "Mid-level Security Engineer",
+    "text": "Mid-level Security Engineer position at a Enterprise company in New York. We're looking for someone with strong TypeScript skills and experience with Go, Python. The ideal candidate will have worked with Spring Boot, .NET and Cassandra for data storage. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "TypeScript",
+      "Python",
+      "Spring Boot",
+      "Cassandra",
+      "Django",
+      "Go",
+      ".NET"
+    ],
+    "location": "New York",
+    "seniority": "Mid-level",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "67",
+    "title": "Lead Data Scientist",
+    "text": "Lead Data Scientist position at a E-commerce company in New York. We're looking for someone with strong TypeScript skills and experience with Kotlin, PHP. The ideal candidate will have worked with TensorFlow, Django and Firebase, SQL Server, Oracle for data storage. Experience with Terraform is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "Terraform",
+      "SQL Server",
+      "PHP",
+      "Kotlin",
+      "Oracle",
+      "TensorFlow",
+      "Django",
+      "Firebase",
+      "TypeScript"
+    ],
+    "location": "New York",
+    "seniority": "Lead",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "68",
+    "title": "Principal ML Engineer",
+    "text": "Principal ML Engineer position at a SaaS company in San Francisco. We're looking for someone with strong TypeScript skills and experience with Rust, Ruby. The ideal candidate will have worked with Express and Cassandra, Redis for data storage. Experience with Jenkins is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "Jenkins",
+      "Rust",
+      "Redis",
+      "Express",
+      "Cassandra",
+      "TypeScript",
+      "Ruby"
+    ],
+    "location": "San Francisco",
+    "seniority": "Principal",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "69",
+    "title": "Mid-level ML Engineer",
+    "text": "Mid-level ML Engineer position in San Francisco. We're looking for someone with strong Ruby skills and experience with Python, Swift. The ideal candidate will have worked with Laravel, PyTorch and Elasticsearch, PostgreSQL for data storage. Experience with Jenkins, Docker, Azure, AWS is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "Ruby",
+    "all_skills": [
+      "Docker",
+      "PostgreSQL",
+      "Azure",
+      "Laravel",
+      "Swift",
+      "Jenkins",
+      "React",
+      "Elasticsearch",
+      "Python",
+      "PyTorch",
+      "AWS",
+      "Ruby"
+    ],
+    "location": "San Francisco",
+    "seniority": "Mid-level",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "70",
+    "title": "Mid-level Cloud Architect",
+    "text": "Mid-level Cloud Architect position at a EdTech company (Remote). We're looking for someone with strong Python skills. The ideal candidate will have worked with React and MongoDB, Oracle, Elasticsearch for data storage. Experience with Kubernetes, AWS is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "AWS",
+      "Kubernetes",
+      "Oracle",
+      "React",
+      "Python",
+      "MongoDB",
+      "Elasticsearch"
+    ],
+    "location": "Remote",
+    "seniority": "Mid-level",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "71",
+    "title": "Mid-level Software Engineer",
+    "text": "Mid-level Software Engineer position at a Enterprise company in London. We're looking for someone with strong Go skills. The ideal candidate will have worked with Angular, FastAPI and Firebase, Oracle for data storage. Experience with ArgoCD, Kubernetes is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "ArgoCD",
+      "Firebase",
+      "Laravel",
+      "Oracle",
+      "FastAPI",
+      "Kubernetes",
+      "Flask",
+      "Angular",
+      "Go"
+    ],
+    "location": "London",
+    "seniority": "Mid-level",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "72",
+    "title": "Principal Mobile Developer",
+    "text": "Principal Mobile Developer position at a Cybersecurity company in Toronto. We're looking for someone with strong C++ skills and experience with Python. The ideal candidate will have worked with Laravel, .NET and PostgreSQL for data storage. Experience with CircleCI, Google Cloud is highly desired. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "PostgreSQL",
+      "Python",
+      "Google Cloud",
+      "Laravel",
+      "C++",
+      ".NET",
+      "CircleCI"
+    ],
+    "location": "Toronto",
+    "seniority": "Principal",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "73",
+    "title": "Mid-level Software Engineer",
+    "text": "Mid-level Software Engineer position at a E-commerce company in London. We're looking for someone with strong PHP skills. The ideal candidate will have worked with Vue.js and Oracle, DynamoDB, Redis for data storage. Experience with GitHub Actions, Kubernetes, Jenkins is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "PHP",
+    "all_skills": [
+      "Oracle",
+      "DynamoDB",
+      "GitHub Actions",
+      "Kubernetes",
+      "Redis",
+      "Vue.js",
+      "PHP",
+      "Jenkins"
+    ],
+    "location": "London",
+    "seniority": "Mid-level",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "74",
+    "title": "Mid-level QA Engineer",
+    "text": "Mid-level QA Engineer position at a Social Media company in Chicago. We're looking for someone with strong Python skills and experience with Java. The ideal candidate will have worked with Flask, Vue.js and Redis for data storage. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "Python",
+    "all_skills": [
+      "Vue.js",
+      "Flask",
+      ".NET",
+      "Python",
+      "Redis",
+      "Angular",
+      "Java"
+    ],
+    "location": "Chicago",
+    "seniority": "Mid-level",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "75",
+    "title": "Mid-level Data Engineer",
+    "text": "Mid-level Data Engineer position in London. We're looking for someone with strong Rust skills and experience with Go, JavaScript, Kotlin. The ideal candidate will have worked with React, .NET and Cassandra for data storage. Experience with Terraform, GitHub Actions is highly desired. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "React",
+      "JavaScript",
+      "Cassandra",
+      "Rust",
+      "Go",
+      "GitHub Actions",
+      "Terraform",
+      "Kotlin",
+      ".NET"
+    ],
+    "location": "London",
+    "seniority": "Mid-level",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "76",
+    "title": "Principal ML Engineer",
+    "text": "Principal ML Engineer position at a AI Research company in New York. We're looking for someone with strong Swift skills and experience with PHP. The ideal candidate will have worked with Spring Boot and SQL Server, Oracle, MySQL for data storage. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "Swift",
+    "all_skills": [
+      "SQL Server",
+      "PHP",
+      "Spring Boot",
+      "Oracle",
+      "Swift",
+      "MySQL"
+    ],
+    "location": "New York",
+    "seniority": "Principal",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "77",
+    "title": "Entry-level Full Stack Developer",
+    "text": "Entry-level Full Stack Developer position at a AI Research company in Toronto. We're looking for someone with strong TypeScript skills and experience with Kotlin. The ideal candidate will have worked with TensorFlow and Elasticsearch, Oracle for data storage. Experience with CircleCI, Jenkins, AWS, Google Cloud is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "AWS",
+      "CircleCI",
+      "Oracle",
+      "Jenkins",
+      "TensorFlow",
+      "Elasticsearch",
+      "Google Cloud",
+      "Kotlin",
+      "TypeScript"
+    ],
+    "location": "Toronto",
+    "seniority": "Entry-level",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "78",
+    "title": "Lead Frontend Developer",
+    "text": "Lead Frontend Developer position at a Social Media company in Sydney. We're looking for someone with strong JavaScript skills. The ideal candidate will have worked with Spring Boot, Vue.js and MySQL, DynamoDB, PostgreSQL for data storage. Experience with ArgoCD is highly desired. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "PostgreSQL",
+      "JavaScript",
+      "MySQL",
+      "Spring Boot",
+      "Vue.js",
+      "ArgoCD",
+      "DynamoDB"
+    ],
+    "location": "Sydney",
+    "seniority": "Lead",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "79",
+    "title": "Entry-level DevOps Engineer",
+    "text": "Entry-level DevOps Engineer position in Austin. We're looking for someone with strong JavaScript skills and experience with Rust, Swift, Python. The ideal candidate will have worked with Flask, Angular and DynamoDB, Redis for data storage. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "Swift",
+      "Angular",
+      "JavaScript",
+      "Rust",
+      "Redis",
+      "Python",
+      "Flask",
+      "DynamoDB"
+    ],
+    "location": "Austin",
+    "seniority": "Entry-level",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "80",
+    "title": "Junior QA Engineer",
+    "text": "Junior QA Engineer position in Chicago. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with React, FastAPI and SQL Server for data storage. Experience with Kubernetes is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "React",
+      "FastAPI",
+      "SQL Server",
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "location": "Chicago",
+    "seniority": "Junior",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "81",
+    "title": "Entry-level Full Stack Developer",
+    "text": "Entry-level Full Stack Developer position in Berlin. We're looking for someone with strong Kotlin skills. The ideal candidate will have worked with .NET, PyTorch and Elasticsearch, MongoDB, DynamoDB for data storage. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "DynamoDB",
+      "Kotlin",
+      "PyTorch",
+      "Elasticsearch",
+      ".NET",
+      "MongoDB"
+    ],
+    "location": "Berlin",
+    "seniority": "Entry-level",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "82",
+    "title": "Lead Data Scientist",
+    "text": "Lead Data Scientist position in Chicago. We're looking for someone with strong Swift skills. The ideal candidate will have worked with Flask, PyTorch and SQL Server, MySQL for data storage. Experience with Jenkins, Kubernetes, Terraform is highly desired. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "Swift",
+    "all_skills": [
+      "Jenkins",
+      "Vue.js",
+      "SQL Server",
+      "MySQL",
+      "Swift",
+      "Flask",
+      "PyTorch",
+      "Terraform",
+      "Kubernetes",
+      "React"
+    ],
+    "location": "Chicago",
+    "seniority": "Lead",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "83",
+    "title": "Principal Data Engineer",
+    "text": "Principal Data Engineer position at a Fintech company in Sydney. We're looking for someone with strong Kotlin skills. The ideal candidate will have worked with .NET, Spring Boot and Cassandra, MongoDB for data storage. Experience with Terraform, CircleCI is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "Django",
+      "Spring Boot",
+      "Kotlin",
+      "Terraform",
+      "MongoDB",
+      ".NET",
+      "CircleCI",
+      "Cassandra"
+    ],
+    "location": "Sydney",
+    "seniority": "Principal",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "84",
+    "title": "Junior Backend Developer",
+    "text": "Junior Backend Developer position at a SaaS company in London. We're looking for someone with strong Go skills and experience with C++, C#. The ideal candidate will have worked with TensorFlow, Spring Boot and Redis for data storage. Experience with Terraform, Jenkins, GitHub Actions, Azure is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "FastAPI",
+      "Terraform",
+      "TensorFlow",
+      "Redis",
+      "Jenkins",
+      "GitHub Actions",
+      "Vue.js",
+      "C++",
+      "C#",
+      "Spring Boot",
+      "Azure",
+      "Go"
+    ],
+    "location": "London",
+    "seniority": "Junior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "85",
+    "title": "Senior QA Engineer",
+    "text": "Senior QA Engineer position at a SaaS company in Sydney. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with TensorFlow, Vue.js and Elasticsearch for data storage. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      ".NET",
+      "TensorFlow",
+      "TypeScript",
+      "Elasticsearch",
+      "Vue.js",
+      "Spring Boot"
+    ],
+    "location": "Sydney",
+    "seniority": "Senior",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "86",
+    "title": "Principal Mobile Developer",
+    "text": "Principal Mobile Developer position in London. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with PyTorch, TensorFlow and Cassandra, PostgreSQL for data storage. Experience with AWS, Azure, Terraform, Docker is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "Azure",
+      "PostgreSQL",
+      "AWS",
+      "TypeScript",
+      "Docker",
+      "Cassandra",
+      "Terraform",
+      "PyTorch",
+      "TensorFlow",
+      "Express"
+    ],
+    "location": "London",
+    "seniority": "Principal",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "87",
+    "title": "Junior Cloud Architect",
+    "text": "Junior Cloud Architect position in Chicago. We're looking for someone with strong Rust skills and experience with Ruby, Python. The ideal candidate will have worked with Laravel, Flask and PostgreSQL, Cassandra, Redis for data storage. Experience with Docker, Terraform is highly desired. This role involves developing and maintaining applications for the Gaming sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "Cassandra",
+      "PostgreSQL",
+      "Terraform",
+      "Python",
+      "Flask",
+      "Rust",
+      "Ruby",
+      ".NET",
+      "Laravel",
+      "Redis",
+      "Docker"
+    ],
+    "location": "Chicago",
+    "seniority": "Junior",
+    "industry": "Gaming"
+  },
+  {
+    "_id": "88",
+    "title": "Principal ML Engineer",
+    "text": "Principal ML Engineer position in London. We're looking for someone with strong JavaScript skills. The ideal candidate will have worked with Angular, Spring Boot and Redis for data storage. Experience with ArgoCD, CircleCI, GitHub Actions, Docker is highly desired. This role involves developing and maintaining applications for the SaaS sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "Docker",
+      "CircleCI",
+      "TensorFlow",
+      "JavaScript",
+      "ArgoCD",
+      "PyTorch",
+      "GitHub Actions",
+      "Redis",
+      "Spring Boot",
+      "Angular"
+    ],
+    "location": "London",
+    "seniority": "Principal",
+    "industry": "SaaS"
+  },
+  {
+    "_id": "89",
+    "title": "Principal Cloud Architect",
+    "text": "Principal Cloud Architect position in London. We're looking for someone with strong Swift skills and experience with C++, Rust. The ideal candidate will have worked with Angular and MongoDB for data storage. This role involves developing and maintaining applications for the Cybersecurity sector.",
+    "primary_language": "Swift",
+    "all_skills": [
+      "Swift",
+      "Angular",
+      "MongoDB",
+      "C++",
+      "Rust"
+    ],
+    "location": "London",
+    "seniority": "Principal",
+    "industry": "Cybersecurity"
+  },
+  {
+    "_id": "90",
+    "title": "Senior Data Engineer",
+    "text": "Senior Data Engineer position in Chicago. We're looking for someone with strong JavaScript skills. The ideal candidate will have worked with Express, TensorFlow and MySQL, Oracle for data storage. This role involves developing and maintaining applications for the E-commerce sector.",
+    "primary_language": "JavaScript",
+    "all_skills": [
+      "Express",
+      "MySQL",
+      "JavaScript",
+      "React",
+      "TensorFlow",
+      "Oracle"
+    ],
+    "location": "Chicago",
+    "seniority": "Senior",
+    "industry": "E-commerce"
+  },
+  {
+    "_id": "91",
+    "title": "Junior Frontend Developer",
+    "text": "Junior Frontend Developer position at a Fintech company in Toronto. We're looking for someone with strong TypeScript skills. The ideal candidate will have worked with Laravel and MySQL, Firebase for data storage. Experience with Azure, Terraform, Kubernetes, ArgoCD is highly desired. This role involves developing and maintaining applications for the Fintech sector.",
+    "primary_language": "TypeScript",
+    "all_skills": [
+      "Terraform",
+      "MySQL",
+      "Firebase",
+      "Azure",
+      "Kubernetes",
+      "TypeScript",
+      "ArgoCD",
+      "Laravel"
+    ],
+    "location": "Toronto",
+    "seniority": "Junior",
+    "industry": "Fintech"
+  },
+  {
+    "_id": "92",
+    "title": "Junior Backend Developer",
+    "text": "Junior Backend Developer position at a Healthcare company in Seattle. We're looking for someone with strong Kotlin skills. The ideal candidate will have worked with Flask, TensorFlow and Elasticsearch for data storage. This role involves developing and maintaining applications for the Healthcare sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "Vue.js",
+      "Flask",
+      "React",
+      "Kotlin",
+      "TensorFlow",
+      "Elasticsearch"
+    ],
+    "location": "Seattle",
+    "seniority": "Junior",
+    "industry": "Healthcare"
+  },
+  {
+    "_id": "93",
+    "title": "Lead Data Engineer",
+    "text": "Lead Data Engineer position in Toronto. We're looking for someone with strong C# skills and experience with PHP. The ideal candidate will have worked with .NET, PyTorch and SQL Server, DynamoDB, MySQL for data storage. Experience with Google Cloud is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "PHP",
+      "MySQL",
+      "FastAPI",
+      "SQL Server",
+      "PyTorch",
+      "C#",
+      "Google Cloud",
+      ".NET",
+      "React",
+      "DynamoDB"
+    ],
+    "location": "Toronto",
+    "seniority": "Lead",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "94",
+    "title": "Junior Security Engineer",
+    "text": "Junior Security Engineer position at a EdTech company in Toronto. We're looking for someone with strong C# skills. The ideal candidate will have worked with React and MongoDB, Cassandra, SQL Server for data storage. Experience with GitHub Actions, Docker is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "C#",
+    "all_skills": [
+      "MongoDB",
+      "GitHub Actions",
+      "React",
+      "Cassandra",
+      "Docker",
+      "SQL Server",
+      "C#"
+    ],
+    "location": "Toronto",
+    "seniority": "Junior",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "95",
+    "title": "Junior Full Stack Developer",
+    "text": "Junior Full Stack Developer position (Remote). We're looking for someone with strong C++ skills. The ideal candidate will have worked with PyTorch, Flask and Elasticsearch, Oracle for data storage. Experience with Google Cloud is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "FastAPI",
+      "Flask",
+      "Elasticsearch",
+      "Google Cloud",
+      "C++",
+      "PyTorch",
+      "Oracle"
+    ],
+    "location": "Remote",
+    "seniority": "Junior",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "96",
+    "title": "Mid-level Data Engineer",
+    "text": "Mid-level Data Engineer position in Sydney. We're looking for someone with strong Rust skills. The ideal candidate will have worked with Vue.js, Laravel and PostgreSQL, MongoDB for data storage. Experience with ArgoCD is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "PostgreSQL",
+      "Laravel",
+      "Rust",
+      "Vue.js",
+      "ArgoCD",
+      "TensorFlow",
+      "MongoDB",
+      "Django"
+    ],
+    "location": "Sydney",
+    "seniority": "Mid-level",
+    "industry": "Enterprise"
+  },
+  {
+    "_id": "97",
+    "title": "Senior Data Scientist",
+    "text": "Senior Data Scientist position at a EdTech company in London. We're looking for someone with strong Kotlin skills and experience with Java. The ideal candidate will have worked with FastAPI and Firebase for data storage. Experience with Azure is highly desired. This role involves developing and maintaining applications for the EdTech sector.",
+    "primary_language": "Kotlin",
+    "all_skills": [
+      "Kotlin",
+      "Azure",
+      "Firebase",
+      "Java",
+      "FastAPI"
+    ],
+    "location": "London",
+    "seniority": "Senior",
+    "industry": "EdTech"
+  },
+  {
+    "_id": "98",
+    "title": "Mid-level QA Engineer",
+    "text": "Mid-level QA Engineer position at a Social Media company in Chicago. We're looking for someone with strong C++ skills and experience with Ruby. The ideal candidate will have worked with TensorFlow, PyTorch and Oracle for data storage. This role involves developing and maintaining applications for the Social Media sector.",
+    "primary_language": "C++",
+    "all_skills": [
+      "C++",
+      "PyTorch",
+      "TensorFlow",
+      "Ruby",
+      "Oracle"
+    ],
+    "location": "Chicago",
+    "seniority": "Mid-level",
+    "industry": "Social Media"
+  },
+  {
+    "_id": "99",
+    "title": "Junior Frontend Developer",
+    "text": "Junior Frontend Developer position at a AI Research company in New York. We're looking for someone with strong Rust skills and experience with PHP. The ideal candidate will have worked with Angular, FastAPI and SQL Server, Firebase, PostgreSQL for data storage. Experience with Azure, ArgoCD, Kubernetes, Terraform is highly desired. This role involves developing and maintaining applications for the AI Research sector.",
+    "primary_language": "Rust",
+    "all_skills": [
+      "Firebase",
+      "Kubernetes",
+      "PHP",
+      "Rust",
+      "Terraform",
+      "PostgreSQL",
+      "SQL Server",
+      "FastAPI",
+      "Azure",
+      "PyTorch",
+      "ArgoCD",
+      "Angular",
+      "Express"
+    ],
+    "location": "New York",
+    "seniority": "Junior",
+    "industry": "AI Research"
+  },
+  {
+    "_id": "100",
+    "title": "Junior Security Engineer",
+    "text": "Junior Security Engineer position in New York. We're looking for someone with strong Go skills and experience with Ruby, Kotlin. The ideal candidate will have worked with Spring Boot and Redis for data storage. Experience with Kubernetes, Jenkins, Terraform, GitHub Actions is highly desired. This role involves developing and maintaining applications for the Enterprise sector.",
+    "primary_language": "Go",
+    "all_skills": [
+      "Spring Boot",
+      "Ruby",
+      "Terraform",
+      "Kotlin",
+      "Redis",
+      "Go",
+      "Jenkins",
+      "Kubernetes",
+      "GitHub Actions"
+    ],
+    "location": "New York",
+    "seniority": "Junior",
+    "industry": "Enterprise"
+  }
+]
