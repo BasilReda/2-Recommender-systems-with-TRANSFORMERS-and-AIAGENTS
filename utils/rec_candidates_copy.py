@@ -46,7 +46,7 @@ from utils.hybridembedder import HybridEmbedder
 def recommend_candidates_from_job_description1(cvs,
                               job_description,
                               top_k=5,
-                              k_constant=60):
+                              k_constant=5):
     """
     Recommend candidates for a job using hybrid embeddings with Reciprocal Rank Fusion.
     
@@ -65,7 +65,7 @@ def recommend_candidates_from_job_description1(cvs,
     # Initialize hybrid embedder with RRF constant
     embedder = HybridEmbedder(k_constant=k_constant)
     
-    # Extract all CV texts and user IDs
+    # Extract CV texts and user IDs
     cv_texts = [cv.text for cv in cvs]
     user_ids = [cv.user_id for cv in cvs]
     
@@ -76,7 +76,8 @@ def recommend_candidates_from_job_description1(cvs,
     candidates = [
         {
             'user_id': user_id,
-            'similarity': float(scores['hybrid'])
+            'similarity': float(scores['hybrid']),
+            'scores': scores  # Store all scores for later use
         }
         for user_id, scores in zip(user_ids, all_scores)
     ]
@@ -88,7 +89,10 @@ def recommend_candidates_from_job_description1(cvs,
     results = [
         {
             "user_id": candidate['user_id'],
-            "similarity": round(candidate['similarity'], 4)
+            "similarity": round(candidate['similarity'], 4),
+            "dense_score": round(float(candidate['scores']['dense']), 4),
+            "sparse_score": round(float(candidate['scores']['sparse']), 4),
+            "normalized_sparse": round(float(candidate['scores']['normalized_sparse']), 4)
         }
         for candidate in candidates[:min(top_k, len(candidates))]
     ]

@@ -44,9 +44,9 @@ class HybridEmbedder:
             cache_key = f"job_{hash(job_description)}"
             if cache_key in self._cache:
                 return self._cache[cache_key]
-        
-        dense_embedding = self.dense_model.encode(job_description, convert_to_tensor=True)
-        sparse_embedding = next(self.sparse_model.query_embed([job_description]))
+        extracted_description = extract_and_check(job_description)
+        dense_embedding = self.dense_model.encode(extracted_description, convert_to_tensor=True)
+        sparse_embedding = next(self.sparse_model.query_embed([extracted_description]))
         
         result = {
             'dense': dense_embedding,
@@ -149,7 +149,7 @@ class HybridEmbedder:
     
     def calculate_similarity(self, job_embeddings, cv_embeddings):
         """
-        Calculate hybrid similarity between job and CV embeddings using RRF.
+        Calculate hybrid similarity between job and CV embeddings using weighted average.
         
         Args:
             job_embeddings: Dictionary with dense and sparse embeddings for a job
@@ -178,18 +178,27 @@ class HybridEmbedder:
         common_indices = set(job_indices).intersection(set(cv_indices))
         sparse_score = sum(job_dict[idx] * cv_dict[idx] for idx in common_indices)
         
-        # Convert scores to ranks for RRF
+        # Define weights for each score type (adjust these based on your preference)
+        dense_weight = 0.8  # Gives more importance to semantic matching
+        sparse_weight = 0.2  # Gives less importance to keyword matching
+        
+        # Normalize sparse score (BM25 scores can vary widely)
+        # Using a soft normalization that keeps most scores in 0-1 range
+        max_sparse_expected = 10.0  # Adjust this based on your typical sparse scores
+        normalized_sparse = min(1.0, sparse_score / max_sparse_expected)
+        
+        # Calculate weighted average
+        hybrid_score = (dense_weight * dense_score) + (sparse_weight * normalized_sparse)
+        
+        # For debugging/analysis, still calculate the ranks
         dense_rank = 1 + (1 - dense_score)
         sparse_rank = 1 + (1 / (1 + sparse_score))
         
-        # Apply RRF formula
-        k = self.k_constant
-        rrf_score = (1 / (k + dense_rank)) + (1 / (k + sparse_rank))
-        
         return {
-            'hybrid': rrf_score,
+            'hybrid': hybrid_score,
             'dense': dense_score,
             'sparse': sparse_score,
+            'normalized_sparse': normalized_sparse,
             'dense_rank': dense_rank,
             'sparse_rank': sparse_rank
         }
