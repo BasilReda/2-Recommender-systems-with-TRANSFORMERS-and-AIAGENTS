@@ -15,8 +15,7 @@ def recommend_jobs(skills , top_k = None):
     skills_embedding = model.encode(skills_extracted, convert_to_tensor=True)
     cosine_scores = util.cos_sim(skills_embedding, loaded_embeddings)[0]
     top_results = torch.topk(cosine_scores, k=top_k)
-
-    job_titles = []
+    
     scores = []
     ids = []
     
