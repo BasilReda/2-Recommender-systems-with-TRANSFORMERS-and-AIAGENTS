@@ -77,7 +77,7 @@ def clean_resume_text(text):
             and not token.is_stop
             and not token.is_space
             and token.text.strip()
-            and len(token.text.strip()) > 1
+            and len(token.text.strip()) > 1 or token.text.strip().isdigit()
         ):
             # Lemmatize the token
             tokens.append(token.text)
