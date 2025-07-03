@@ -5,24 +5,12 @@ from src.company_data import clean_resume_text
 from utils.AI_agent import extract_and_check
 
 class HybridEmbedder:
-    """
-    Combines dense embeddings from a Sentence Transformer model with 
-    sparse embeddings from BM25 for improved text matching using Reciprocal Rank Fusion.
-    """
-    
+
     def __init__(self, dense_model_path='E:/vs codes/REC/job_embeddings_model_evaluated2',
                  sparse_model_name="Qdrant/bm25",
                  k_constant=60,
                  use_cache=True):
-        """
-        Initialize the hybrid embedder with RRF ranking parameters.
-
-        Args:
-            dense_model_path: Path to the SentenceTransformer model
-            sparse_model_name: Name of the sparse embedding model
-            k_constant: Constant used in RRF formula (default: 60, higher values reduce impact of high ranks)
-            use_cache: Whether to cache embeddings for reuse (improves performance)
-        """
+        
         self.dense_model = SentenceTransformer(dense_model_path)
         self.sparse_model = Bm25(sparse_model_name)
         self.k_constant = k_constant
@@ -30,21 +18,14 @@ class HybridEmbedder:
         self._cache = {} if use_cache else None
 
     def encode_job(self, job_description):
-        """
-        Generate both dense and sparse embeddings for a job description.
-        
-        Args:
-            job_description: Text of the job description
-            
-        Returns:
-            Dictionary with dense and sparse embeddings
-        """
+
         # Check cache
         if self.use_cache:
             cache_key = f"job_{hash(job_description)}"
             if cache_key in self._cache:
                 return self._cache[cache_key]
-        extracted_description = extract_and_check(job_description)
+        cleaned_description = clean_resume_text(job_description)
+        extracted_description = extract_and_check(cleaned_description)
         dense_embedding = self.dense_model.encode(extracted_description, convert_to_tensor=True)
         sparse_embedding = next(self.sparse_model.query_embed([extracted_description]))
         
@@ -59,49 +40,8 @@ class HybridEmbedder:
             
         return result
     
-    def encode_cv(self, cv_text):
-        """
-        Generate both dense and sparse embeddings for a CV.
-        
-        Args:
-            cv_text: Text of the CV
-            
-        Returns:
-            Dictionary with dense and sparse embeddings
-        """
-        # Check cache
-        if self.use_cache:
-            cache_key = f"cv_{hash(cv_text)}"
-            if cache_key in self._cache:
-                return self._cache[cache_key]
-        
-        cleaned_text = clean_resume_text(cv_text)
-        accurate_text = extract_and_check(cleaned_text)
-        
-        dense_embedding = self.dense_model.encode(accurate_text, convert_to_tensor=True)
-        sparse_embedding = next(self.sparse_model.passage_embed([accurate_text]))
-        
-        result = {
-            'dense': dense_embedding,
-            'sparse': sparse_embedding
-        }
-        
-        # Store in cache
-        if self.use_cache:
-            self._cache[cache_key] = result
-            
-        return result
-    
     def batch_encode_cvs(self, cv_texts):
-        """
-        Efficiently encode multiple CV texts in batch.
         
-        Args:
-            cv_texts: List of CV texts
-            
-        Returns:
-            List of dictionaries with dense and sparse embeddings
-        """
         results = []
         cleaned_texts = []
         
@@ -148,16 +88,7 @@ class HybridEmbedder:
         return results
     
     def calculate_similarity(self, job_embeddings, cv_embeddings):
-        """
-        Calculate hybrid similarity between job and CV embeddings using weighted average.
-        
-        Args:
-            job_embeddings: Dictionary with dense and sparse embeddings for a job
-            cv_embeddings: Dictionary with dense and sparse embeddings for a CV
-            
-        Returns:
-            Dictionary with combined score and individual scores
-        """
+    
         # Calculate dense similarity
         dense_score = util.cos_sim(job_embeddings['dense'], cv_embeddings['dense']).item()
         
@@ -204,16 +135,6 @@ class HybridEmbedder:
         }
         
     def batch_rank_cvs(self, job_description, cv_texts):
-        """
-        Rank multiple CVs against a job description in one efficient operation.
-        
-        Args:
-            job_description: Job description text
-            cv_texts: List of CV texts
-            
-        Returns:
-            List of dictionaries with scores for each CV
-        """
 
         # Encode job once
         job_embeddings = self.encode_job(job_description)
@@ -230,6 +151,6 @@ class HybridEmbedder:
         return results
         
     def clear_cache(self):
-        """Clear the embedding cache"""
+
         if self.use_cache:
             self._cache = {}
