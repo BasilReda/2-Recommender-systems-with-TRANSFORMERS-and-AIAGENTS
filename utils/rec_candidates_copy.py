@@ -2,8 +2,6 @@ from sentence_transformers import SentenceTransformer , util
 import torch
 from utils.hybridembedder import HybridEmbedder
 
-from utils.hybridembedder import HybridEmbedder
-
 def recommend_candidates_from_job_description1(cvs,
                               job_description,
                               top_k=5,
