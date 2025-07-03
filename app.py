@@ -12,7 +12,7 @@ class CV(BaseModel):
 
 class SkillsRequest(BaseModel):
     skills : str
-    top_k: int = 5
+    top_k: int = 6
 
 class JobRequest(BaseModel):
     job_description: str

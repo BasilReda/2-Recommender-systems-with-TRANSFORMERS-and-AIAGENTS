@@ -5,9 +5,9 @@ import pickle
 from utils.AI_agent import extract_and_check
 model = SentenceTransformer('E:/vs codes/REC/job_embeddings_model_evaluated2')
 
-Data = pd.read_csv("E:/vs codes/REC/data/job_lists_export.csv", delimiter=";")
+Data = pd.read_csv("E:/vs codes/REC/data/job_lists.csv", delimiter=";")
 
-with open('E:/vs codes/REC/job_embeddings.pkl', 'rb') as f:
+with open('E:/vs codes/REC/job_embeddings3.pkl', 'rb') as f:
     loaded_embeddings = pickle.load(f)
 
 def recommend_jobs(skills , top_k = None):
