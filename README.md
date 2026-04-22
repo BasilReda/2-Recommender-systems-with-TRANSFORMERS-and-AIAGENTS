@@ -63,7 +63,7 @@ The project trains a fine-tuned Sentence Transformer model on job-CV similarity 
 | **Precision@10** | 0.0853 | 0.6920 | +711% ↑ |
 | **Recall@10** | 0.7501 | 0.2942 | -61% ↓ |
 | **MRR@10** | 0.5843 | 0.8840 | +51% ↑ |
-| **NDCG@10** | 0.6650 | 7.4322 | +1017% ↑ |
+| **DCG@10** | 0.6650 | 7.4322 | +1017% ↑ |
 
 **Results Explanation:**
 - **Precision +711%**: Fine-tuning dramatically improved relevance of top-10 results. The model learned to rank highly relevant items at the top
